@@ -1,7 +1,3 @@
-
-let num=60;
-console.log(num);
-console.log(num**5);
-console.log(num**5%3);
-
-console.log(Math.floor(Math.random() * 5) + 95);
+let userName = "ali";
+let surname = "Memmedli";
+console.log('sizi Ali Memmedli bir daha gormeyimize sadiq .');
