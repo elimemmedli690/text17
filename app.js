@@ -1,3 +1,3 @@
 let userName = "ali";
 let surname = "Memmedli";
-console.log('sizi Ali Memmedli bir daha gormeyimize sadiq .');
+console.log('sizi bir daha gormeyimize sadiq, ${ali} ${memmedli}');
